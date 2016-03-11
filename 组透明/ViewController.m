@@ -34,7 +34,7 @@
     
     UIView *view=[[UIView alloc]initWithFrame:CGRectMake(0, 0, 320, 568)];
     view.backgroundColor=[UIColor blackColor];
-    view.layer.opacity=0.5;
+//    view.layer.opacity=0.5;
     [self.view addSubview:view];
     
     // Do any additional setup after loading the view, typically from a nib.
